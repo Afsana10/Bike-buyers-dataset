@@ -1,2 +1,2 @@
 # Bike-buyers-dataset
-Shows various significant summaries from the dataset of bike buyers with dashboard
+Shows various significant summaries with dashboard from the dataset of bike buyers
